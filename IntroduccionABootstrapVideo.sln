@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroduccionABootstrapVideo", "IntroduccionABootstrapVideo\IntroduccionABootstrapVideo.csproj", "{C41D1215-279D-429B-B557-A4B61E8D268E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41D1215-279D-429B-B557-A4B61E8D268E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41D1215-279D-429B-B557-A4B61E8D268E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41D1215-279D-429B-B557-A4B61E8D268E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41D1215-279D-429B-B557-A4B61E8D268E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387DA219-4FE2-4C7C-9DA8-9250156939E3}
+	EndGlobalSection
+EndGlobal
